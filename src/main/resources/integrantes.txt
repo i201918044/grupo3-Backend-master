@@ -1,0 +1,7 @@
+i202116452;contra01;Luis Alonso;Chirre Hurtado
+i202215478;contra02;Arnold Beardsley;Nuñez Alarcón
+i202210383;contra03;Fabrizio Edgardo;Reyes Coca
+i201918044;contra04;Janet;Huaman Alvarez
+i202214850;contra05;Rodrigo Eduardo;De La Cruz Picon
+i202215626;contra06;Leonardo Favio;Guerra Puray
+i202211758;contra07;Judith Mariela;Ramos Supanta
